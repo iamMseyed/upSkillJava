@@ -12,8 +12,8 @@
 
 <h3> How to run these mini projects? </h3>
 
-To compile: javac classNameWhichContainsMainFunction.java
-To run: java classNameWhichContainsMainFunction
+To compile: javac classNameWhichContainsMainMethod.java <br>
+To run: java classNameWhichContainsMainMethod
 
 <i align="center">Remember to group first four mini projects inside a directory as they are modules of a single mini project</i>
 
