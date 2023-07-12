@@ -1,5 +1,5 @@
 # upSkillJava
-<p>Mini Java Projects</p>
+<h2>Mini Java Projects</h2>
 
 <ul>
   <li>Mini_Project_1 checks for greater or smaller value from 2 numbers received from the user.</li>
@@ -10,11 +10,11 @@
   <li>Mini_Project_6 is a most popular game Rock, Paper and Scissor. </li>
 </ul>
 
-<p> How to run these mini projects? </p>
+<h3> How to run these mini projects? </h3>
 
 To compile: javac classNameWhichContainsMainFunction.java
 To run: java classNameWhichContainsMainFunction
 
 <i align="center">Remember to group first four mini projects inside a directory as they are modules of a single mini project</i>
 
-<span align="center">Hope you are done the prerequisite installation already.</span>
+<span align="center">I hope you have already completed the prerequisite installation to run these mini projects. </span>
