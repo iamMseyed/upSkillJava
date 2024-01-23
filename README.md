@@ -11,6 +11,8 @@
   <li>Mini_Project_7 is a simple calulator app which perform some arthmetics. </li>
   <li>Mini_Project_8, a student record management app. </li>
   <li>Mini_Project_9, system enables employees to request leave, tracks leave balances, and automates the approval process. </li>
+  <li>Mini_Project_10 is a comprehensive Car Rental System developed entirely in Java. </li>
+ 
 </ul>
 
 <h3> How to run these mini projects? </h3>
